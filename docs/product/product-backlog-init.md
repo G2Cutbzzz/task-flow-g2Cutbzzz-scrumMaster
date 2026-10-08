@@ -8,3 +8,4 @@
 | Editar otros datos de una tarea además de su estado                  | **Posterior**         | Permite corregir o ajustar información de las tareas conforme surjan nuevas necesidades.    |
 | Eliminar tareas                                                      | **Posterior**         | Permite mantener el registro organizado retirando tareas que ya no sean necesarias.         |
 | Funciones adicionales de seguimiento o gestión                       | **Posterior**         | Pueden ampliar el valor del producto después de validar las necesidades básicas del equipo. |
+ 
